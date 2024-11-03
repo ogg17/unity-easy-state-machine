@@ -1,0 +1,23 @@
+﻿{
+  "name": "com.ogg17.unity-easy-state-machine",
+  "version": "0.0.1",
+  "displayName": "UniStates Easy State Machine",
+  "description": "A simple state machine implementation for use in your projects to control game behavior ",
+  "unity": "2022.3",
+  "documentationUrl": "https://github.com/ogg17/unity-easy-state-machine",
+  "changelogUrl": "https://github.com/ogg17/unity-easy-state-machine",
+  "licensesUrl": "https://github.com/ogg17/unity-easy-state-machine/blob/main/LICENSE",
+  "license": "MIT",
+  "keywords": [
+    "Easy States",
+    "State Machine",
+    "States"
+  ],
+  "category": "States",
+  "dependencies": {},
+  "author": {
+    "name": "ogg17",
+    "email": "vsevolod.gavrilov.17@gmail.com",
+    "url": "https://github.com/ogg17"
+  }
+}
